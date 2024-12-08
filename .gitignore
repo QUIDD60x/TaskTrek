@@ -1,3 +1,5 @@
 # Ignore environment and configuration files
 .env
 config.json
+error_log.txt
+checklist_data.json
