@@ -10,3 +10,5 @@ Currently does not provide any API key for the AI benefit, please make a .config
 2. Create `config.json` file, insert openAI API key
 3. run `checklist.py` in CMD (will create .exe application on 1.0.0 release)
 4. Enjoy!
+
+https://drive.google.com/file/d/1Q0ImExkjz-QANCaYXhMWDnj1Rbsn4XHn/view?usp=drivesdk
